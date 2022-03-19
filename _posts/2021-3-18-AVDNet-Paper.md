@@ -3,8 +3,6 @@ layout: post
 title: AVDNet - A Small-Sized Vehicle Detection Network for Aerial Visual Data
 ---
 
-## Murari Mandal, Manal Shah, Prashant Meena, Sanhita Devi, and Santosh Kumar Vipparthi
-
 **_Abstract_** **—Detection of small-sized targets in aerial views is a
 challenging task due to the smallness of vehicle size, complex
 background, and monotonic object appearances. In this letter,
