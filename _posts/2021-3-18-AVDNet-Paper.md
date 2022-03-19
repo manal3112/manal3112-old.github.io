@@ -2,7 +2,6 @@
 layout: post
 title: AVDNet - A Small-Sized Vehicle Detection Network for Aerial Visual Data
 ---
-## AVDNet: A Small-Sized Vehicle Detection Network for Aerial Visual Data
 
 ## Murari Mandal, Manal Shah, Prashant Meena, Sanhita Devi, and Santosh Kumar Vipparthi
 
