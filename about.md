@@ -22,7 +22,6 @@ permalink: /about/
 - Led a team of developers in a global team hackathon and developed a critical business web application prototype using React.JS and TypeScript, deploying it on the private cloud - GAIA.
 - Onboarded Price Valuation workflows consisting of automated jobs for Fixed Income Finance business in JPMC’s Athena framework saving annually 800+ person-hours.
 - Automated creation of market data reports for end-users and regulatory operations, and various desks.
-- Conducted training in developers’ community on Advanced Python, AI/ML, Pandas, and NumPy libraries.
 - Implemented external vendor data snapping APIs using encrypted connections in a client-server application.
 - Re-engineered legacy processes by significant design changes and efficient use of computing resources. 
 - Provided production support for the live dashboard of automated workflow processes of various businesses.
