@@ -30,7 +30,7 @@ permalink: /about/
 ## Education
 - __Stony Brook University__ *(2021 - Present)* <br>
 M. S (Computer Science) <br>
-GPA - __3.75__ /4.00
+GPA - __3.83__ /4.00
 
 - __Malaviya National Institute of Technology, Jaipur__ *(2014 - 2018)* <br>
 Bachelor of Technology (Computer Science and Engineering) <br>
@@ -51,10 +51,10 @@ GPA - __3.7__ / 4.0
 GPA - __3.3__ / 4.0
 
 - __Big Data Analytics__ <br>                                                                           
-GPA -  / 4.0
+GPA - __4.0__ / 4.0
 
 - __Probability and Statistics for Data Scientists__ <br>
-GPA -  / 4.0
+GPA - __4.0__ / 4.0
 
 ## Projects
 
